@@ -373,7 +373,7 @@
 #endif
 
 #ifndef TEMP_0_PIN
-  #define TEMP_0_PIN -1
+  #define TEMP_0_PIN 12
 #endif
 #ifndef TEMP_1_PIN
   #define TEMP_1_PIN -1
